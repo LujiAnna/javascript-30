@@ -62,7 +62,7 @@ Each time you finish one of these group challenges, check it off (`- [x]`) and p
 - [ ] 11 - [Custom Video Player]()
 - [ ] 12 - [Key Sequence Detection]()
 - [ ] 13 - [Slide in on a Scroll]()
-- [ ] 15 - [LocalStorage]()
+- [ ] 15 - [LocalStorage](https://github.com/LujiAnna/local-storage)
 - [x] 16 - [Mouse Move Shadow](https://github.com/harunaltunhr/Mouse-Move-Shadow)
 - [ ] 17 - [Sort Without Articles]()
 - [ ] 19 - [Webcam Fun]()
